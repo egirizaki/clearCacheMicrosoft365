@@ -4,7 +4,7 @@ This guide provides step-by-step instructions for uninstalling **Microsoft 365 A
 
 ---
 
-## 🧹 Step 1: Uninstall Microsoft 365 Apps
+## Step 1: Uninstall Microsoft 365 Apps
 
 1. Press `Windows + I` to open **Settings**.
 2. Navigate to:
@@ -16,7 +16,7 @@ This guide provides step-by-step instructions for uninstalling **Microsoft 365 A
 
 ---
 
-## 🗑️ Step 2: Run the Cleanup Script
+## Step 2: Run the Cleanup Script
 
 After Microsoft 365 is uninstalled, follow these steps to run the script and clear remaining cache files.
 
@@ -27,7 +27,7 @@ After Microsoft 365 is uninstalled, follow these steps to run the script and cle
 3. Extract the downloaded ZIP file to any folder on your computer.
 4. Open the extracted folder.
 
-### 🖥️ B. Run the Batch Script
+### B. Run the Batch Script
 
 1. Locate the file named: `DeleteCacheOffice.bat`
 2. **Right-click** on it → Select **"Run as administrator"**  
