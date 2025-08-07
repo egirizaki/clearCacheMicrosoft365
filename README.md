@@ -1,6 +1,3 @@
-# clearCacheMicrosoft365
-Powershell Script to clear cache your Microsoft 365 Apps.
-
 # Microsoft 365 Apps Desktop - Uninstall & Cache Cleanup Guide
 
 This guide provides step-by-step instructions for uninstalling **Microsoft 365 Apps Desktop** from **Windows 10 or Windows 11**, followed by running a cleanup script to remove leftover cache and configuration files.
